@@ -8,7 +8,7 @@ This seminar deals with the prediction of monthly electricity availability by es
 1. Clone the repo
 ```bash
 #Open a terminal, naviate to a suitable directory and type:
-git clone https://gitlab.kit.edu/utygi/Nowcasting_Challenge.git
+git clone https://github.com/Marcus633/Nowcasting-Challenge.git
 ```
 
 2. Create a New Virtual Environment
